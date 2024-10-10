@@ -1,0 +1,19 @@
+@tailwind base;
+
+:root {
+  cursor: crosshair;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  font-weight: 200 900;
+  font-display: block;
+  font-style: normal;
+  font-stretch: 75% 125%;
+  src: url('../fonts/Mona-Sans.var.woff2') format('woff2');
+}
+
+::selection {
+  background-color: #fe64a3;
+  color: white;
+}
