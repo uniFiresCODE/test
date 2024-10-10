@@ -36,7 +36,7 @@ function Culture() {
           <GridList className="lg:grid-cols-3 xl:grid-cols-4">
             <GridListItem title="Accessible" invert>
               We strongly focus on enabling accessible and valuable projects and
-              infrastructure for everyone.
+              infrastructure for everyone t.
             </GridListItem>
             <GridListItem title="Knowledge Sharing" invert>
               Our workgroups are open to the public, we believe in shared and
